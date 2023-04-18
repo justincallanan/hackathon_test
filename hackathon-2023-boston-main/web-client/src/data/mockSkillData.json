@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Justin Callanan",
+    "i-number": "I32800",
+    "skills": [
+      { "name": "Python", "complexity": 1, "years": 3, "source": "test" },
+      { "name": "ArcGIS", "complexity": 3, "years": 4, "source": "test" },
+      { "name": "Talend", "complexity": 3, "years": 1, "source": "test" }
+    ],
+    "interests": [{ "name": "C++" }, { "name": "React" }, { "name": "AWS" }]
+  },
+  {
+    "name": "David Daiell",
+    "i-number": "I10000",
+    "skills": [
+      { "name": "C++", "complexity": 3, "years": 6, "source": "test" },
+      { "name": "Java", "complexity": 4, "years": 11, "source": "test" },
+      { "name": "Python", "complexity": 3, "years": 11, "source": "test" }
+    ],
+    "interests": [{ "name": "React" }, { "name": "AWS" }]
+  },
+  {
+    "name": "Karvin Ma",
+    "i-number": "I10001",
+    "skills": [
+      { "name": "Python", "complexity": 3, "years": 8, "source": "test" },
+      { "name": "C++", "complexity": 5, "years": 12, "source": "test" },
+      { "name": "React", "complexity": 2, "years": 3, "source": "test" }
+    ],
+    "interests": [
+      { "name": "DynamoDB" },
+      { "name": "Talend" },
+      { "name": "Ruby" }
+    ]
+  },
+  {
+    "name": "Jayalakshmi Palanisamy",
+    "i-number": "I10002",
+    "skills": [
+      { "name": "Python", "complexity": 3, "years": 8, "source": "test" },
+      { "name": "C++", "complexity": 5, "years": 12, "source": "test" },
+      { "name": "React", "complexity": 2, "years": 3, "source": "test" },
+      { "name": "Java", "complexity": 4, "years": 9, "source": "test" }
+    ],
+    "interests": [
+      { "name": "DynamoDB" },
+      { "name": "Talend" },
+      { "name": "Ruby" }
+    ]
+  },
+  {
+    "name": "Jackson Williams",
+    "i-number": "I10003",
+    "skills": [
+      { "name": "AWS", "complexity": 3, "years": 3, "source": "test" },
+      { "name": "React", "complexity": 2, "years": 3, "source": "test" },
+      { "name": "C++", "complexity": 4, "years": 7, "source": "test" }
+    ],
+    "interests": [{ "name": "SQL" }]
+  },
+  {
+    "name": "Mona Yu",
+    "i-number": "I10004",
+    "skills": [
+      { "name": "React", "complexity": 3, "years": 2, "source": "test" },
+      { "name": "AWS", "complexity": 2, "years": 2, "source": "test" },
+      { "name": "R", "complexity": 3, "years": 4, "source": "test" }
+    ],
+    "interests": [
+      { "name": "ArcGIS" },
+      { "name": "Java" },
+      { "name": "Talend" }
+    ]
+  }
+]
